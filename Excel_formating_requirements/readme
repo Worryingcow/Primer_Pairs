@@ -1,0 +1,4 @@
+hello. 
+
+this is the repository for a streamlit app that finds primer pair combinations give a list of forward and reverse primer. 
+The code also is able to handle primers to be excluded from the list (for instance if those primers have already been used)
